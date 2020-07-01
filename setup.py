@@ -16,7 +16,7 @@ conf = dict(
     keywords='inf infinity',
     author='Peter Waller',
     author_email='p@pwaller.net',
-    url='http://github.com/pwaller/inf',
+    url='https://github.com/sensiblecodeio/inf',
     py_modules=["inf"],
 )
 
